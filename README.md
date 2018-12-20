@@ -1,2 +1,2 @@
 # gameTradutorOnline.github.io
-Projeto hospedado -  Feito com Angular 
+Projeto hospedado -  https://gametradutor-a072c.firebaseapp.com/
